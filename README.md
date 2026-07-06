@@ -13,7 +13,7 @@
   <a href="mailto:arnavbhardwaj457@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-arnavbhardwaj457-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arnav-bhardwaj" target="_blank">
+  <a href="https://www.linkedin.com/in/arnav-bhardwaj-241808248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ArnavBhardwaj457" target="_blank">
@@ -21,7 +21,7 @@
   </a>
 </p>
 <p>
-  <a href="https://leetcode.com/u/arnavbhardwaj457" target="_blank">
+  <a href="https://leetcode.com/u/arnavbhardwaj457_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/arnavbhardwaj457" target="_blank">

@@ -24,7 +24,7 @@
   <a href="https://leetcode.com/u/arnavbhardwaj457_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/arnavbhardwaj457" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/arnavbhar" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/arnavbhardwaj457" target="_blank">
@@ -209,10 +209,10 @@ Built with **RAG + OCR** to parse and simplify complex medical reports into plai
 | Platform | Link |
 |:---:|:---:|
 | 📧 **Email** | [arnavbhardwaj457@gmail.com](mailto:arnavbhardwaj457@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/arnav-bhardwaj](https://www.linkedin.com/in/arnav-bhardwaj) |
+| 💼 **LinkedIn** | [linkedin.com/in/arnav-bhardwaj-241808248](https://www.linkedin.com/in/arnav-bhardwaj-241808248/) |
 | 🐙 **GitHub** | [github.com/ArnavBhardwaj457](https://github.com/ArnavBhardwaj457) |
-| 🧩 **LeetCode** | [leetcode.com/u/arnavbhardwaj457](https://leetcode.com/u/arnavbhardwaj457) |
-| 📗 **GeeksforGeeks** | [geeksforgeeks.org/user/arnavbhardwaj457](https://www.geeksforgeeks.org/user/arnavbhardwaj457) |
+| 🧩 **LeetCode** | [leetcode.com/u/arnavbhardwaj457_](https://leetcode.com/u/arnavbhardwaj457_/) |
+| 📗 **GeeksforGeeks** | [geeksforgeeks.org/profile/arnavbhar](https://www.geeksforgeeks.org/profile/arnavbhar) |
 | ⚔️ **Codeforces** | [codeforces.com/profile/arnavbhardwaj457](https://codeforces.com/profile/arnavbhardwaj457) |
 | 📞 **Phone** | +91-8235524313 |
 

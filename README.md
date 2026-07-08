@@ -24,7 +24,7 @@
   <a href="https://leetcode.com/u/arnavbhardwaj457_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/arnavbhar" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/arnavbhar?from=explore&tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/arnavbhardwaj457" target="_blank">
